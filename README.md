@@ -52,7 +52,7 @@ You can host this easily using **GitHub Pages**:
 ## 🙋 Author
 
 **Your Name**  
-[GitHub Profile](https://github.com/your-username)
+[GitHub Profile](https://github.com/kusshhhh1)
 
 ## 📄 License
 
