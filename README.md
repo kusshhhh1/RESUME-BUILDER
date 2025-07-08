@@ -51,7 +51,7 @@ You can host this easily using **GitHub Pages**:
 
 ## 🙋 Author
 
-**Your Name**  
+Kushagra Sharma
 [GitHub Profile](https://github.com/kusshhhh1)
 
 ## 📄 License
